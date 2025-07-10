@@ -14,4 +14,4 @@ Claude Code 是 Anthropic 官方CLI工具，专为开发者设计的智能编程
 
 伊莉思Code提供同等订阅服务，低至10元/天, 同等于官方 Max 200美元方案 ，支持Claude 4 Opus模型, 极致的性价比
 
-https://code.ylsagi.com
+伊莉思code官网：https://code.ylsagi.com
